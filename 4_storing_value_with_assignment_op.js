@@ -4,7 +4,7 @@ var a;
 var b = 2;
 
 //a will be null because hasnt been assign 
-console.log(a);
+console.log(a); 
 
 //asssign a
 a=7;
