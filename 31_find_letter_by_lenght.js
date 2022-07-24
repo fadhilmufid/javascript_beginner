@@ -2,7 +2,7 @@
 var lastLetter;
 var firstName = "Mufid";
 
-//use "[]" adn number from 0 to find the letter
+//use "[]" and add ".lenght" + count from back to find the letter
 lastLetter = firstName[firstName.length - 1];
 
 //testing
