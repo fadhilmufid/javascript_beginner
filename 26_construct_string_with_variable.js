@@ -6,3 +6,4 @@ var sentence = "Hallo " + firstName + ", be strong"
 
 //testing
 console.log(sentence);
+
